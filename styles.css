@@ -1,1 +1,35 @@
-/*  your css code here. If applicable */
+.container{
+    width: 80%;
+    border:2px solid white ;
+    background-color: #f5f5f5;
+    padding: 30px;
+}
+h1{
+    padding: 10px 15px;
+}
+.Doe {
+    width: 90%;
+    border:1px solid black;
+    margin: 20px;
+    background-color: #fff;
+    padding: 10px;
+}
+.smith{
+    width: 90%;
+    border: 1px solid black;
+    margin: 20px;
+    background-color: #fff;
+    padding: 10px ;
+}
+.John{
+    text-align: right;
+    left:90% ;
+    font-style: italic;
+    font-weight: bold;
+}
+.Jone{
+    text-align: right;
+    left:90% ;
+    font-style: italic;
+    font-weight: bold;
+}
